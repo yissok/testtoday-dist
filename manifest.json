@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1",
+  "app": "testtoday",
+  "global": "__sveltekit_1qa7xga",
+  "start": "_app/immutable/entry/start.byYRWi2N.js",
+  "appEntry": "_app/immutable/entry/app.BaHZCY-_.js",
+  "styles": [
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/assets/0.DhiSY61-.css"
+  ],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/entry/start.byYRWi2N.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/CyypZq6f.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/ftdu31sP.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/foZznslH.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/entry/app.BaHZCY-_.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/CmnDqXhY.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/COfmLvQB.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/BMmONKm0.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/D2CM8PKd.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/cn9cX9q0.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/Bv3-FpNJ.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/nodes/0.Rzy3N9rd.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/DEjX4r3e.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/C5kyencj.js",
+    "https://yissok.github.io/testtoday-dist/releases/202f15bf7102d6faab1a5019280e82e728db235c-45799141703-1/_app/immutable/chunks/CDrYV6iT.js"
+  ],
+  "social": {
+    "title": "Testtoday",
+    "description": "An interactive website created with Project Factory."
+  },
+  "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+}
